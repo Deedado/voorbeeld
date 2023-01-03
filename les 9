@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="nl">
+    <head><meta name="descripion" content=“korte omschrijving max 40 tekens">
+        <meta name="keywords" content=“plaats hier kenwords gescheiden door een komma”>
+<meta charset="utf-8">
+        <title>iframe enzo</title>
+    </head><body><a href="beaum visitekaartje.pdf">Download pdf</a><br><hr><iframe src="beaum visitekaartje.pdf" width="450" height="750"></iframe></body>
+</html>
+
